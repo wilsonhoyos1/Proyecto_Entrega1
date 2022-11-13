@@ -1,6 +1,22 @@
 # Proyecto_Reconocimiento_Ocular_Enfermedades
 Primera entrega del proyecto realizado por WILSON DAVID HOYOS BENAVIDES para la materia de Introducción a la Inteligencia Artificial para Ciencias e Ingeniería.
-### Incluye: Archivo PDF de nombre: PROYECTO_ENTREGA1.pdf
+### Incluye: Archivos de nombre: 
+PROYECTO_ENTREGA1.pdf
+
+01_exploracion_y_preprocesado.ipynb
+
+02_prediccion.ipynb
+
+PROYECTO_ENTREGA1.pdf
+
+PROYECTO_ENTREGA2.pdf
+
+PROYECTO_INFORME_FINAL.pdf
+
+Proyecto_Entrega2.ipynb
+
+README.md
+
 # Entrega-2
 ## Ocular Disease Image Recognition
 ### Wilson Hoyos Benavides Cc. 1214746103
